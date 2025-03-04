@@ -1,0 +1,5 @@
+* O CSS interno é uma técnica melhor que o inline, vamos colocar todos os estilos na tag head;
+* As regras também precisa estar entre a tag style;
+* E através dessa maneira, é necessario selecionar o elemento alvo:                                            P{
+    color:red;
+}                                                                                                   

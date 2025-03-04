@@ -1,0 +1,6 @@
+* Podemos alterar a opacidade de uma cor de fundo com CSS;
+* A regra é a opacity;
+* Os valores vão de 0 a 1;
+* sendo 1 totalmente visível e 0 remove a cor;
+* Com esta regra mudamos também a opacidade dos elementos dentro do elemento que alteramos a opacidade, veremos uma solução depois;
+* Vamos ver na prática!

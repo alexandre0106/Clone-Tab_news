@@ -1,0 +1,4 @@
+* Podemos adicionar borda aos lados específico de um elemento também;
+* Podemos usar border-*, onde * pode ser top, right, bottom e left;
+* Isso é usado frequentemente, especialmente com a border-bottom e left;
+* Vamos ver na prática!

@@ -1,0 +1,4 @@
+* HSL é um acrônimo para hue, saturation e lightness;
+* Esta abordagem também não é muito utilizada, o ranking de uso é este: HEX> RGB> HSL> Nomes de cor;
+* Podemos definir uma cor com: hsl(0-255, 0-100%, 0-100%)
+* Vamos ver na prática!

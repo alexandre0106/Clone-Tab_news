@@ -1,0 +1,6 @@
+* Atributos podem ser utilizados para adicionar funcionalidades as tags;
+* A tag a é responsável por nos direcionar a uma nova página ou site;
+* Mais a onde vamos adicionar o endereço/URL?
+* Colocamos o atributo chamado href;
+* Um exemplo: <a href="https://www.google.com">google</a>
+* Neste exemplo, ao clicar no link o usuario é redirecionado para o google;

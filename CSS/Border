@@ -1,0 +1,5 @@
+* A borda é um elemento central, fica entre padding e margin;
+* Padding é o espaçamento interno e margin o externo;
+* Geralmente esta regra é utilizado com propósito decorativo;
+* A regra de border é definida em algumas partes: tamanho, aspecto e cor da borda;
+* Vamos ver na prática!

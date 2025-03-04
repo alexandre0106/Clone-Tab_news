@@ -1,0 +1,6 @@
+* Temos duas maneiras de adicionar CSS ao HTML;
+* Inline: quando os estilos são adicionado por um atributo;
+* Internal: quando o CSS é adicionado na tag head;
+* external: quando o CSS é adicionado através de um arquivo externo, depois importado no HTML;
+* Vamos sempre optar pelo external CSS, quando ouver a opção;
+* Isso vai organizar melhor o nosso projeto;

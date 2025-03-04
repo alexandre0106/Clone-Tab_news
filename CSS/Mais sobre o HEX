@@ -1,0 +1,5 @@
+* Se o valor for repetido 6 vezes, podemos escrever a cor de forma mais simples;
+* No caso de #FFFFFF podemos rescrever com #FFF;
+* A mesma coisa vale para #112233, essa cor pode ser escrita como: #123;
+* Esta é uma tecnica muito utilizada;
+* Vamos ver na pratica!

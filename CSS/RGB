@@ -1,0 +1,7 @@
+* RGB significa red, green e blue;
+* Nós precisamos inserir a intencidade de cada com, com valores de 0 a 255;
+* 0 é o mais escuro e 255 o mais claro;
+* Aplicamos RGB com a seguinte sintaxe: rgb(0-255, 0-255, 0-255)
+* O primeiro valor representa vermelho, depois verde e por fim azul;
+* Para criar a cor verde inserimos: rgb(0,255,0);
+* Vamos ver na prática!

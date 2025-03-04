@@ -1,0 +1,5 @@
+* para adicionar CSS com essa técnica precisamos criar um arquivo .css;
+* Geralmente eles ficam em uma pasta chamada css;
+* E nós o importamos através da tag link;
+* As regras que estão no arquivo são aplicadas no HTML;
+* Vamos ver na prática!

@@ -1,0 +1,4 @@
+* As propiedades de shorthand nos permite adicionar padding a todas as direções com uma regra;
+* Apenas precisamos utilizar a regra padding, e configurar top, right, bottom e left nesta ordem;
+* Exemplo: padding: 10px 5px 12px 20px;
+* Esta regra de shorthand pode ser aplicada para outras prioridades, como a margin;

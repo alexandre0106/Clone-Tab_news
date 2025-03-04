@@ -1,0 +1,5 @@
+* Nós podemos inserir imagens no nosso site com a tag img;
+* O caminho relativo até a imagem é inserido no atributo src;
+* Normalmente colocamos a imagem numa pasta chamada img ou assets, para fins de organização;
+* Nota: a imagem é uma self closing tag;
+* Vamos ver na prática!

@@ -1,0 +1,6 @@
+* Os ids também são atributos do HTML;
+* Podemos escrever qualquer coisa como valor, será o nome do id;
+* Ids são únicos, ou seja, não repetimos o mesmo nome na mesma página;
+* O HTML não nos proibe disso, mas é uma má prática e deve ser evitada;
+* O seletor fica: #<nome_do_id>
+* Vamos ver na prática!

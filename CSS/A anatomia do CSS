@@ -1,0 +1,5 @@
+* Com CSS aplicamos CSS a um elementos;
+* Primeiramente devemos selecionar o elemento, isso pode ser feito através da tag do elemento;
+* Depois prrecisamos colocar as prioridades e os valores;
+* Se quisermos mudar a cor de algo, utilizamos: color:red;
+* Nome da prioridade, dois pontos, valor, ponto e virgula;

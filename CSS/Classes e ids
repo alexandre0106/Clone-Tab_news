@@ -1,0 +1,5 @@
+Classes e ids são atributos de tags no HTML, mais estão diretamente relacionados ao CSS;                                                                                    
+Podemos especificar elementos espessifícos com eles                                                            
+Ids são utilizados para elementos únicos;                                                                
+E classes servem para um ou mais elementos, geralmente utilizadas em conjuntos de elementos;                                                                     
+Veremos a utilização dos mesmos nos nossos projetos também;

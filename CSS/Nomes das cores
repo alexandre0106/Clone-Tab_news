@@ -1,0 +1,4 @@
+* Nós utilizamos muito essa maneira até agora, mas em projetos reais não é tão empregada;
+* Pois ela nos limita a apenas as cores com nomes existentes;
+* No mundo real precisamos de mais posibilidades, para não limitar os designers;
+* O nome da cor consiste na utilização do nome real da cor como valor da propiedade;

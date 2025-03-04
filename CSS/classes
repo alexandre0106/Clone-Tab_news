@@ -1,0 +1,5 @@
+* As classes são inseridas através de um atributo de HTML;
+* O valor do atributo é o nome da classe, e também uma escolha nossa;
+* Por exemplo: temos um botão que aparece x vezzes no nosso projeto, podemos colocar uma classe btn nele;
+* Ou seja, os padrões de estilos desses botçoes podem ser transmitidos através desta classe para os demais;
+* O seletor fica: <nome_da_classe>

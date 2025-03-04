@@ -1,0 +1,5 @@
+* Os titulos são conhecidos como headings;
+* Utilizamos principalmente para separar seções;
+* O nome da tag é h*, onde * pode ser um valor de 1 a 6;
+* O maior titulo é o h1, e também é o mais importante, colocamos apenas um por página;
+* A importancia deve estar conectada com o propósito da nossa pagina, este assunto faz parte do HTML semântico, um topico mais avnçado;

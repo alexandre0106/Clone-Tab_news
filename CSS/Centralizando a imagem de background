@@ -1,0 +1,5 @@
+* Às vezes a imagem é muito mais que o elemento que estamos inserindo
+* Então precisamos melhorar a visualização, centralizando a imagem;
+* Isso pode ser feito com duas regras:background-position com o valor de center;
+* E backgraund-size com o valor de cover;
+* Vamos ver na prática!

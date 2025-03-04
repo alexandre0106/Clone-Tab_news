@@ -1,0 +1,6 @@
+* Podemos criar cores também com o RGBA, A vem de alpha;
+* A alteração dele muda a opacidade da cor;
+* Os valores possíveis são de 0 a 1;
+* sendo 0 totalmente transparente e 1 totalmente visível;
+* A sintaxe é quase a mesma: rgba(0-255, 0-255, 0-255, 0-1)
+* Vamos ver na prática!

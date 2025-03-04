@@ -1,0 +1,6 @@
+* HEX ou exadecimal é a abordagem mais utilizada;
+* Basicamente temos que inserir 6 dígitos, precedimos de uma #;
+* Os dois primeiros representam o tom de vermelho, depois o do verde e por fim o azul;
+* Os valores vão de 0 a 9 e A a F;
+* 0 é o mais escuro e F o mais claro;
+* O valor de #000 é a cor preta e #FFF a cor branca;

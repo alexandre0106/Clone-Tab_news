@@ -1,0 +1,6 @@
+* A altura e a largura são o core do box model;
+* Estas prioridades consistem no conteúdo do elemento;
+* Podemos alterar as duas e mudar o tamanho do elemento na tela;
+* Alguns elementos no HTML, os blok elements, já vem com 100% de largura;
+* Preenchendo a tela toda na horizontal;
+* Vamos ver na prática!

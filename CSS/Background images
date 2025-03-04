@@ -1,0 +1,5 @@
+* Podemos inserir imagens no background dos elementos;
+* A regra é: background-image: url("pasta/imagem.jpg")
+* Geralmente a imagem fica em outra pasta, então temos que voltar um diretório;
+* Isso pode ser feito com o símbolo ..
+* Vamos ver na prática!

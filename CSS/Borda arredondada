@@ -1,0 +1,5 @@
+* Com a propiedade border-radius podemos arredondar os cantos de um elemento;
+* Podemos aplicar assim: border-radius: 5px;
+* Isso faz que o canto seja arrendondado em 5px;
+* Importante: Podemos arredondar elementos que não a regra de borda aplicada;
+* Vamos ver na prática!

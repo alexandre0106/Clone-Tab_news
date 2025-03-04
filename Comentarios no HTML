@@ -1,0 +1,5 @@
+* Comentários são utilizados para descrever como funciona nosso código;
+* Ou explicar para outros programadores o que fizemos;
+* Os comentários não são exibidos na página;
+* Mas qualquer um que inspesionar seu código, terá acesso aos comentários;
+* Vamos ver na pratica!
